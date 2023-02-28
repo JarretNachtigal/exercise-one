@@ -1,2 +1,1 @@
-# exercise-one
-github exercise 1
+Jarret Nachtigal
